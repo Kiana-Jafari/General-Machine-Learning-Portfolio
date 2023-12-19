@@ -1,4 +1,4 @@
-# Data Scientist
+# Machine Learning
 
 ### Technical Skills
 - Programming Languages: Python, SQL, HTML
@@ -9,7 +9,7 @@
 - Naive Bayes, decision trees, random forest, AdaBoost, XGBoost, K-Nearest Neighbors, 
 - Clustering (K-means)
 
-### Data Analytics Projects
+### Machine Learning Projects
 
 - Classification of TikTok videos: Used SVC, KNN, and scikit-learn to predict whether videos presented claims or opinions to improve triaging process of videos for human review 
 
