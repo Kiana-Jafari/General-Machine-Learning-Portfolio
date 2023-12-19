@@ -4,7 +4,8 @@
 - Programming Languages: Python, SQL
 - Tableau, Google Spreadsheet (Microsoft Excel)
 
-- Python Packages: Numpy, Pandas, Scipy, Seaborn, Matplotlib, Statsmodels, scikit-learn
+### Python Packages 
+- Numpy, Pandas, Scipy, Seaborn, Matplotlib, Statsmodels, scikit-learn
 
 - Machine Learning Models: Regression (Linear, Logistic, Ridge, Lasso, Elastic-Net), Support Vector Machine (SVM), 
 - Naive Bayes, Decision Trees, Random Forest, AdaBoost, XGBoost, K-Nearest Neighbors, 
