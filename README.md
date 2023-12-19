@@ -1,12 +1,13 @@
 # Machine Learning
 
 ### Technical Skills
-- Programming Languages: Python, SQL, HTML
+- Programming Languages: Python, SQL
+- Tableau, Google Spreadsheet (Microsoft Excel)
 
 - Python Packages: Numpy, Pandas, Scipy, Seaborn, Matplotlib, Statsmodels, scikit-learn
 
-- Machine Learning Models: regression (linear, logistic, ridge, lasso, elasticNet), Support Vector Machine, 
-- Naive Bayes, decision trees, random forest, AdaBoost, XGBoost, K-Nearest Neighbors, 
+- Machine Learning Models: Regression (Linear, Logistic, Ridge, Lasso, Elastic-Net), Support Vector Machine (SVM), 
+- Naive Bayes, Decision Trees, Random Forest, AdaBoost, XGBoost, K-Nearest Neighbors, 
 - Clustering (K-means)
 
 ### Machine Learning Projects
