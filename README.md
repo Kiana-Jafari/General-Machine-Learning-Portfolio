@@ -17,6 +17,7 @@
 - Regression (Linear, Logistic, Ridge, Lasso, Elastic-Net) 
 - Support Vector Machine (SVM),
 - Naive Bayes
+- PCA
 - Decision Trees
 - Random Forest
 - AdaBoost
